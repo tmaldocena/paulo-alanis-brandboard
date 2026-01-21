@@ -18,14 +18,14 @@ export default function LogoComponent({
 }) {
   
   const logoMap = {
-    primary: '/src/assets/logos/primary/logo-primary.svg',
-    dark: '/src/assets/logos/variations/logo-dark.svg',
-    light: '/src/assets/logos/variations/logo-light.svg',
-    accent: '/src/assets/logos/variations/logo-accent.svg',
-    social: '/src/assets/logos/social/logo-social-square.svg',
-    favicon: '/src/assets/logos/icon/favicon.svg',
-    construction: '/src/assets/logos/construction/logo-construction.svg',
-    pattern: '/src/assets/logos/pattern/pattern.svg'
+    primary: '/assets/logos/primary/logo-primary.svg',
+    dark: '/assets/logos/variations/logo-dark.svg',
+    light: '/assets/logos/variations/logo-light.svg',
+    accent: '/assets/logos/variations/logo-accent.svg',
+    social: '/assets/logos/social/logo-social-square.svg',
+    favicon: '/assets/logos/icon/favicon.svg',
+    construction: '/assets/logos/construction/logo-construction.svg',
+    pattern: '/assets/logos/pattern/pattern.svg'
   };
 
   const logoPath = logoMap[variant] || logoMap.primary;

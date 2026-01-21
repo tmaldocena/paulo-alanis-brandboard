@@ -127,17 +127,17 @@ const brandData = {
     {
       title: "SOCIAL MEDIA",
       description: "Instagram & Social Platform Applications",
-      image: "/src/assets/mockups/mockup-social.webp"
+      image: "/assets/mockups/mockup-social.webp"
     },
     {
       title: "DIGITAL CONTENT",
       description: "Website & Digital Experience Mockups",
-      image: "/src/assets/mockups/mockup-digital.webp"
+      image: "/assets/mockups/mockup-digital.webp"
     },
     {
       title: "DIGITAL E-BOOK",
       description: "E-Book & Digital Publications",
-      image: "/src/assets/mockups/mockup-ebook.webp"
+      image: "/assets/mockups/mockup-ebook.webp"
     }
   ],
   
