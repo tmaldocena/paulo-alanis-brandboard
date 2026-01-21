@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # React + Vite
+=======
+>>>>>>> fd93368a8b9957a88bdca15a21853f90cd1efa8b
 # 🎨 Brandboard Template
 
 A professional, interactive single-page brandboard template for presenting brand identities to clients. Built with React + Vite for optimal performance and easy customization.
@@ -177,4 +180,8 @@ Created with ❤️ by **[Maguito Studio](https://maguitostudio.vercel.app)**
 
 **Need help customizing this template?** Feel free to reach out or submit an issue on GitHub.
 
+<<<<<<< HEAD
 **Want to see it in action?** Check out the live demo at your deployed URL.
+=======
+**Want to see it in action?** Check out the live demo at your deployed URL.
+>>>>>>> fd93368a8b9957a88bdca15a21853f90cd1efa8b
