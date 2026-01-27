@@ -152,7 +152,15 @@ const brandData = {
 // ============================================
 // MAIN COMPONENT
 // ============================================
+import PendingPayment from './PendingPayment.jsx';
+
+// Set this to false to show the pending payment page
+const pending = false;
+
 export default function Brandboard() {
+  if (!pending) {
+    return <PendingPayment />;
+  }
   const [activeSection, setActiveSection] = useState('identity');
   const [copiedColor, setCopiedColor] = useState(null);
   const [scrolled, setScrolled] = useState(false);

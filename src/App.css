@@ -40,3 +40,30 @@
 .read-the-docs {
   color: #888;
 }
+/* Pending Payment Card Styles */
+.pending-payment-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  background: #f7f7f7;
+}
+
+.pending-payment-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  padding: 2rem 3rem;
+  text-align: center;
+  max-width: 400px;
+}
+
+.pending-payment-card h2 {
+  color: #d9534f;
+  margin-bottom: 1rem;
+}
+
+.pending-payment-card p {
+  color: #333;
+  font-size: 1.1rem;
+}
