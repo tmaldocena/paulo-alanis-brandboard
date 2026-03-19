@@ -155,7 +155,7 @@ const brandData = {
 import PendingPayment from './PendingPayment.jsx';
 
 // Set this to false to show the pending payment page
-const pending = false;
+const pending = true;
 
 export default function Brandboard() {
   if (!pending) {
