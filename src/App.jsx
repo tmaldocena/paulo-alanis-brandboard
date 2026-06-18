@@ -142,7 +142,7 @@ const brandData = {
   ],
   
   downloads: [
-    { name: "LOGO SUITE", size: "28.9 MB", file: "https://drive.google.com/drive/folders/1bKp9M95oLvW7RDxkBBNFLY3QRzSx4Unc?usp=sharing" },
+    { name: "LOGO SUITE (Updated)", size: "28.9 MB", file: "https://drive.google.com/drive/folders/1Gm9lXXeqpvtZttONzPjt5axcH4d1-GEO?usp=sharing" },
     { name: "BRAND BOOK", size: "220.3 MB", file: "https://drive.google.com/file/d/1S6S9TlPAYbdH0LndtDkqvK9zpcPXAkc4/view?usp=sharing" },
     { name: "TYPOGRAPHY", size: "306 KB", file: "https://drive.google.com/file/d/1noZQUwXiCdOw-Mh2A8z3PQKksCI3vRKd/view?usp=sharing" },
     { name: "COLOR PALETTE", size: "1 KB", file: "https://coolors.co/004777-1e0d09-f5f4f4-b31c44-47b1cb"}
